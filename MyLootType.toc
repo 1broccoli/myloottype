@@ -1,0 +1,7 @@
+## Title: My Loot Type
+## Notes: A visual addon for setting loot quality type ##Adding Thresh hold soon
+## Author: Pegga / Broccoli
+## Version: 1.0
+## Website https://github.com/1broccoli?tab=repositories
+
+MyLootType.lua
