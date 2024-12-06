@@ -1,6 +1,9 @@
 # myloottype
 /mlt -- toggles hide or show 
 
+
+![MLQ](https://github.com/user-attachments/assets/4245e10d-a766-4d00-9197-b10a83cf3bc2)
+
 Creating the Loot Dropdown:
 
 Dropdown, that creates a dropdown UI element with various loot qualities (Poor, Common, Uncommon, Rare, Epic, Legendary, and Artifact), which helps players easily identify the quality of loot.
