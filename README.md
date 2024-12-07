@@ -1,5 +1,5 @@
 # myloottype
-/mlt -- toggles hide or show 
+~~~/mlt -- toggles hide or show ~~~
 
 
 ![MLQ](https://github.com/user-attachments/assets/4245e10d-a766-4d00-9197-b10a83cf3bc2)
