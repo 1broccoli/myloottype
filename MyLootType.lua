@@ -106,13 +106,3 @@ end
 if not updateLootThresholdTimer then
     updateLootThresholdTimer = C_Timer.NewTicker(0.5, UpdateLootThresholdDropdown)
 end
-
--- Slash command to toggle visibility of the dropdown
-SLASH_MLQ1 = "/mlt"
-SlashCmdList["mlt"] = function()
-    if lootDropdown:IsShown() then
-        lootDropdown:Hide()  -- Hide the dropdown
-    else
-        lootDropdown:Show()  -- Show the dropdown
-    end
-end
