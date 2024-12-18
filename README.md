@@ -1,6 +1,7 @@
 # myloottype
 
-![MLQ](https://github.com/user-attachments/assets/4245e10d-a766-4d00-9197-b10a83cf3bc2)
+![MLQ](https://github.com/user-attachments/assets/4245e10d-a766-4d00-9197-b10a83cf3bc2) ![image](https://github.com/user-attachments/assets/49b766c8-f9a5-4cf0-843a-c6dd3f7e9201)
+
 
 Creating the Loot Dropdown:
 
