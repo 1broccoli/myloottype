@@ -1,7 +1,8 @@
+## Interface: 100105  
 ## Title: My Loot Type
-## Notes: A visual addon for setting loot quality type ##Adding Thresh hold soon
+## Notes: A visual addon for setting loot quality type and thresholds
 ## Author: Pegga / Broccoli
-## Version: 1.0
-## Website https://github.com/1broccoli?tab=repositories
+## Version: 1.1
+## Website: https://github.com/1broccoli?tab=repositories
 
 MyLootType.lua
