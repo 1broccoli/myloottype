@@ -3,6 +3,7 @@
 ![image](https://github.com/user-attachments/assets/c2530c6b-4c9d-40c0-bb4b-86f5f48f8100)
 
 ![image](https://github.com/user-attachments/assets/972ec21e-57b9-4d2b-81a8-91e4e4cb2022)
+![myltmenu](https://github.com/user-attachments/assets/a79a8c53-2424-46e1-8366-4869d7a06827)
 
 Creating the Loot Dropdown:
 
