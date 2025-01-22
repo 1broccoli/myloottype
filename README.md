@@ -1,8 +1,8 @@
 # myloottype
 
-![MLQ](https://github.com/user-attachments/assets/4245e10d-a766-4d00-9197-b10a83cf3bc2) ![image](https://github.com/user-attachments/assets/2b4c2328-961a-4341-9ac1-543f9fc0b3a3)
+![image](https://github.com/user-attachments/assets/c2530c6b-4c9d-40c0-bb4b-86f5f48f8100)
 
-
+![image](https://github.com/user-attachments/assets/972ec21e-57b9-4d2b-81a8-91e4e4cb2022)
 
 Creating the Loot Dropdown:
 
@@ -25,3 +25,6 @@ The dropdown dynamically updates with the current loot threshold, ensuring that 
 Improved Accessibility and Efficiency:
 
 The ability to quickly toggle the visibility of the dropdown via a slash command (/mlt) allows for a streamlined experience. Players can adjust the loot threshold without having to navigate through multiple menus, making the interaction faster and more efficient.
+
+For the older design please use myloot 1.1 in the archives.
+![MLQ](https://github.com/user-attachments/assets/4245e10d-a766-4d00-9197-b10a83cf3bc2) ![image](https://github.com/user-attachments/assets/2b4c2328-961a-4341-9ac1-543f9fc0b3a3)
